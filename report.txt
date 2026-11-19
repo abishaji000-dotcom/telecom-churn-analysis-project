@@ -1,0 +1,81 @@
+# TELECOM CUSTOMER CHURN ANALYSIS
+### Exploratory Data Analysis (EDA) Project
+
+**1. Introduction**
+
+Telecom Customer Churn Analysis is a data analysis project used to understand why customers leave a telecommunications company. This project focuses on analysing customer details, internet services, payment methods, contract types and billing information.
+
+**2. Objective**
+
+The main objectives of this project are:
+- To analyse customer information.
+- To identify the number of customers who left the company.
+- To understand customer subscription patterns.
+- To analyse the factors associated with customer churn.
+- To provide suggestions to improve customer retention.
+
+**3. Dataset Description**
+
+The dataset contains customer information such as gender, age category, tenure, internet service, phone service, contract type, payment method, monthly charges, total charges and churn status.
+
+The target column is **Churn**, which indicates whether a customer has left the company (Yes or No).
+
+**4. Tools and Technologies Used**
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- VS Code
+
+**5. Data Cleaning**
+
+The following data-cleaning operations were performed:
+- Checked missing values.
+- Checked duplicate records.
+- Converted TotalCharges into numeric format.
+- Handled missing values.
+- Removed unnecessary columns where required.
+
+**6. Exploratory Data Analysis**
+
+The following analyses were performed:
+- Gender distribution analysis.
+- Customer churn analysis.
+- Contract type analysis.
+- Internet service analysis.
+- Payment method analysis.
+- Monthly charges analysis.
+- Customer tenure analysis.
+- Correlation analysis.
+
+Different visualizations such as countplots, histograms, boxplots, scatterplots, pie charts and heatmaps were created using Matplotlib and Seaborn.
+
+**7. Key Observations**
+
+The analysis was used to investigate:
+- Which contract types have higher customer churn.
+- Which payment methods are associated with higher churn.
+- Whether customer tenure is related to churn.
+- Whether monthly charges influence customer retention.
+- How internet service types relate to customer churn.
+
+**8. Recommendations**
+
+- Improve customer support services.
+- Provide attractive offers to retain customers.
+- Encourage long-term subscriptions.
+- Improve internet service quality.
+- Provide convenient payment options.
+- Focus on improving the experience of new customers.
+
+**9. Conclusion**
+
+This project helped me understand how to perform Exploratory Data Analysis using Python. I learned how to clean datasets, handle missing values, analyse customer information and create visualizations using Pandas, Matplotlib and Seaborn.
+
+The analysis helps identify customer churn patterns and provides useful insights that can support better business decisions and customer retention strategies.
+
+**10. Learning Outcomes**
+
+Through this project, I gained practical knowledge of data cleaning, data analysis, data visualization and Exploratory Data Analysis using Python libraries.
