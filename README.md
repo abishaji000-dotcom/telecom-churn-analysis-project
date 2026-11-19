@@ -124,7 +124,6 @@ This project is part of my learning journey in Python, Data Analysis, and Data V
 
 **Abi Shaji**
 
-GitHub: [Your GitHub Profile](https://github.com/)
 
 ---
 
